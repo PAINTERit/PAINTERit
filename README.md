@@ -1,11 +1,7 @@
 <p align="center">
   <img src="assets/japan.gif" alt="animated" />
 </p>
-Hello everyone I dream of becoming a cool Python developer. I have pet projects that you can evaluate. Now I am writing my social network and I am trying very hard on this project. My skills and social links are attached below.
-
-## Last projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PAINTERit&repo=MyFirstSocialNetwork)](https://github.com/PAINTERit/MyFirstSocialNetwork)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PAINTERit&repo=HearthstoneSite)](https://github.com/PAINTERit/HearthstoneSite)
+<h3>Hello everyone I dream of becoming a cool Python developer. I have pet projects that you can evaluate. Now I am writing my social network and I am trying very hard on this project. My skills and social links are attached below.</h3>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
