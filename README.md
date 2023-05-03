@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/japan.gif" alt="animated" />
+  <img src="japan.gif" alt="animated" />
 </p>
 <h1>Hello everyone!</h1>
 <h3>I dream of becoming a cool Python Developer. I have pet projects that you can evaluate. Now I am writing my social network and I am trying very hard on this project. My skills and social links are attached below.</h3>
